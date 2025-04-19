@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 97a7fa49eb4f87048b3691bbe32a28b1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 145624
+  packageName: Motion Matching for Unity
+  packageVersion: 2.2.151
+  assetPath: Assets/Plugins/MotionMatching/Code/UTIL/ClipSplicer.cs
+  uploadId: 660851
